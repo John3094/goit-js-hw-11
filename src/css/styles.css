@@ -19,11 +19,11 @@ p {
 }
 
 .search-form {
-  background-color: blue;
+  background-color: greenyellow;
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 15px 0px 15px 0px;
+  padding: 25px 0px 25px 0px;
 }
 
 .search-input-box {
